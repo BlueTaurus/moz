@@ -1,0 +1,6 @@
+torch>=0.4.1
+Unidecode==0.4.20
+tensorboardX
+Pillow
+flask
+lws
